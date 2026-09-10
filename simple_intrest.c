@@ -11,3 +11,4 @@ int main(){
     printf("simple intrest=%.2f",si);
     return 0;
 }
+//hii bj
